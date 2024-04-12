@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Fenna03
-- 👀 I’m interested in games
-- 🌱 I’m currently learning a lot
-- 💞️ I’m looking to collaborate on staying away
-- 📫 How to reach me don't
+- Hi I'm Fenna!
+- I'm currently learning software development and hoping to become a game developer.
+- My hobbies include things like reading and gaming.
 
 <!---
 Fenna03/Fenna03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
